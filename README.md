@@ -8,8 +8,6 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
 ```
 Tener XAMPP instalado (compilador de código).
 Tener Visual Studio Code para poder modificar el código.
@@ -18,9 +16,7 @@ Tener instalado un gestor de BBDD (WorkBench en mi caso).
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Una vez instalado Xampp, Visual estudio code y el gestor de BBDD_
+_Una vez instalado Xampp, Visual Studio Code y el gestor de BBDD_
 
 _Creamos una carpeta en /xampp/htdocs/www donde alojaremos el proyecto_
 
@@ -29,27 +25,24 @@ _Abrimos esa carpeta en Visual Studio Code y abrimos el terminal_
 _Clonaremos el repositorio del proyecto en esa carpeta_
 
 ```
-git clone ""
+git clone "url del proyecto"
+En este caso: https://github.com/danirc09/README.git
 ```
 
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Una vez hecho esto ya tendrías el proyecto en local para poder ejecutarlo y modificar código_
 
 ## Ejecutando las pruebas ⚙️
 
-_Abrir en el buscador en localhost el sitio donde tengamos el proyecto alojado_
+_Abrimos el buscador(google en mi caso) y escribimos localhost/www/Proyecto_
+
+_Y si todo está correctamente instalado, debería aparecer el proyecto_
 
 ### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+_Para verificar que funciona, nada más abrirse el proyecto deberemos probar si funciona el login_
 
 ```
-Da un ejemplo
+Introducimos uno de los usuarios que está en nuestra BBDD y su contraseña y si carga la siguiente página funciona correctamente.
 ```
 
 ### Y las pruebas de estilo de codificación ⌨️
@@ -65,8 +58,6 @@ Da un ejemplo
 _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
