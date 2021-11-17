@@ -20,10 +20,16 @@ Tener instalado un gestor de BBDD (WorkBench en mi caso).
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-_Dí cómo será ese paso_
+_Una vez instalado Xampp, Visual estudio code y el gestor de BBDD_
+
+_Creamos una carpeta en /xampp/htdocs/www donde alojaremos el proyecto_
+
+_Abrimos esa carpeta en Visual Studio Code y abrimos el terminal_
+
+_Clonaremos el repositorio del proyecto en esa carpeta_
 
 ```
-Da un ejemplo
+git clone ""
 ```
 
 _Y repite_
@@ -36,7 +42,7 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Abrir en el buscador en localhost el sitio donde tengamos el proyecto alojado_
 
 ### Analice las pruebas end-to-end 🔩
 
