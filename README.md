@@ -53,11 +53,10 @@ Da un ejemplo
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Xampp](https://www.apachefriends.org/es/index.html) - El compilador de código usado
+* [VisualStudioCode](https://code.visualstudio.com/) - Manejador de código
+* [000Webhost](https://www.000webhost.com) - Usado para alojar el proyecto
+* [Git-Hub](https://github.com/) - Usado para subir el trabajar con los colaboradores
 
 ## Contribuyendo 🖇️
 
@@ -69,7 +68,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+1.1.2
 
 ## Autores ✒️
 
