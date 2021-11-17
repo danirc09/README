@@ -6,16 +6,9 @@ Página Web para gestionar reservas e incidencias de un restaurante.
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+_XAMPP 
 
 ### Instalación 🔧
 
