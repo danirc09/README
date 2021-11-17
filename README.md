@@ -8,7 +8,13 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_XAMPP 
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+Tener XAMPP instalado (compilador de código).
+Tener Visual Studio Code para poder modificar el código.
+Tener instalado un gestor de BBDD (WorkBench en mi caso).
+```
 
 ### Instalación 🔧
 
