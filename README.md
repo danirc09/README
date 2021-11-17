@@ -1,4 +1,4 @@
-# Título del Proyecto
+# HAL21
 
 Página Web para gestionar reservas e incidencias de un restaurante.
 
@@ -33,18 +33,31 @@ _Una vez hecho esto ya tendrías el proyecto en local para poder ejecutarlo y mo
 
 ### Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+_Subido a 000webhost_
 
 ### Analice las pruebas end-to-end 🔩
 
-_Para verificar que funciona, nada más abrirse el proyecto deberemos probar si funciona el login_
+_Explica que verifican estas pruebas y por qué_
 
 ```
-Introducimos uno de los usuarios que está en nuestra BBDD y su contraseña y si carga la siguiente página funciona correctamente.
+Da un ejemplo
 ```
-_Una vez nos cargue la página principal debemos probar si funciona tanto el logout como las otras funcionalidades de hacer reservas y quitarlas y ver si se modifica en la página y en la BBDD._
+
+### Y las pruebas de estilo de codificación ⌨️
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+## Despliegue 📦
+
+_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
@@ -52,7 +65,11 @@ _Una vez nos cargue la página principal debemos probar si funciona tanto el log
 
 ## Contribuyendo 🖇️
 
-_Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests._
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
 ## Versionado 📌
 
