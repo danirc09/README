@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Página Web para gestionar reservas e incidencias de un restaurante.
 
 ## Comenzando 🚀
 
