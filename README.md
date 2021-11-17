@@ -31,11 +31,9 @@ En este caso: https://github.com/danirc09/README.git
 
 _Una vez hecho esto ya tendrías el proyecto en local para poder ejecutarlo y modificar código_
 
-## Ejecutando las pruebas ⚙️
+### Despliegue 📦
 
-_Abrimos el buscador(google en mi caso) y escribimos localhost/www/Proyecto_
-
-_Y si todo está correctamente instalado, debería aparecer el proyecto_
+_Agrega notas adicionales sobre como hacer deploy_
 
 ### Analice las pruebas end-to-end 🔩
 
@@ -44,18 +42,7 @@ _Para verificar que funciona, nada más abrirse el proyecto deberemos probar si 
 ```
 Introducimos uno de los usuarios que está en nuestra BBDD y su contraseña y si carga la siguiente página funciona correctamente.
 ```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+_Una vez nos cargue la página principal debemos probar si funciona tanto el logout como las otras funcionalidades de hacer reservas y quitarlas y ver si se modifica en la página y en la BBDD._
 
 ## Construido con 🛠️
 
@@ -65,11 +52,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+_Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests._
 
 ## Versionado 📌
 
@@ -77,12 +60,9 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [dannylarrea](https://github.com/dannylarrea)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Juan Carlos Gundín** - *Trabajo Inicial* - [dannylarrea](https://github.com/danirc09/README.git)
+* **Pol García** - *Trabajo Inicial* - [dannylarrea](https://github.com/danirc09/README.git)
+* **Daniel Ruano** - *Trabajo Inicial* - [dannylarrea](https://github.com/danirc09/README.git)
 
 ## Licencia 📄
 
