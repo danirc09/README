@@ -1,0 +1,10 @@
+INSERT INTO `tbl_empleados` VALUES (1,'Manuel','Carrasco','1fa3356b1eb65f144a367ff8560cb406','manucarrasco@gmail.com','Camarero'),
+(2,'Dani','Ruano','1fa3356b1eb65f144a367ff8560cb406','daniruano@gmail.com','Camarero'),
+(3,'Marc','Diaz','1fa3356b1eb65f144a367ff8560cb406','marcdiaz@gmail.com','Camarero'),
+(4,'Alfredo','Blum','1fa3356b1eb65f144a367ff8560cb406','alfredoblum@gmail.com','Camarero'),
+(5,'Pol','García','1fa3356b1eb65f144a367ff8560cb406','manucarrasco@gmail.com','Camarero'),
+(6,'Danny','Larrea','1fa3356b1eb65f144a367ff8560cb406','dannylarrea@gmail.com','Admin'),
+(7,'Sergio','Jimenez','1fa3356b1eb65f144a367ff8560cb406','sergiojimenez@gmail.com','Admin'),
+(8,'Agnes','Plans','1fa3356b1eb65f144a367ff8560cb406','agnesplans@gmail.com','Admin'),
+(9,'Gerard','Orobitg','1fa3356b1eb65f144a367ff8560cb406','gerardorobitg@gmail.com','Admin'),
+(10,'Nuria','Garres','1fa3356b1eb65f144a367ff8560cb406','nuriagarres@gmail.com','Admin');
