@@ -31,7 +31,7 @@ En este caso: https://github.com/danirc09/README.git
 
 _Una vez hecho esto ya tendrías el proyecto en local para poder ejecutarlo y modificar código_
 
-### Despliegue 📦
+## Despliegue 📦
 
 _Subido a 000webhost_
 
@@ -50,10 +50,6 @@ _Explica que verifican estas pruebas y por qué_
 ```
 Da un ejemplo
 ```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
