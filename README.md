@@ -33,7 +33,11 @@ _Una vez hecho esto ya tendrías el proyecto en local para poder ejecutarlo y mo
 
 ## Despliegue 📦
 
-_Subido a 000webhost_
+_https://danihal21.000webhostapp.com/view/login.php_
+
+_Paco@gmail.com_
+
+_qweQWE123_
 
 ### Analice las pruebas end-to-end 🔩
 
